@@ -1,1 +1,5 @@
-# Amazon-Fine-Food-Review-Data-Analysis
+运行下载数据集.py可以把kaggle的相关数据集下载到目录内
+
+
+
+数据仓库.py是主函数注释蛮清楚
